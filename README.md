@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, i'm Ives!
 
 <!--
 **ivesfg1/ivesfg1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ivesfg1&theme=highcontrast&show_icons=true&count_private=true&hide=stars&theme=blueberry)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ivesfg1&layout=compact&theme=blueberry)
+![Github stats](https://github-readme-stats.vercel.app/api?username=ivesfg1&theme=nightowl&show_icons=true&count_private=true&hide=stars)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ivesfg1&layout=compact&theme=nightowl)
