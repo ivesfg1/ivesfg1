@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ivesfg1&theme=nightowl&show_icons=true&count_private=true&hide=stars)
 
+[![Charizard](https://img.pokemondb.net/sprites/diamond-pearl/normal/charizard.png)](http://pokemondb.net/pokedex/charizard)
 [![Primeape](https://img.pokemondb.net/sprites/black-white/normal/primeape.png)](http://pokemondb.net/pokedex/primeape)
+[![Jolteon](https://img.pokemondb.net/sprites/black-white/normal/jolteon.png)](http://pokemondb.net/pokedex/jolteon)
+[![Starmie](https://img.pokemondb.net/sprites/black-white/normal/starmie.png)](http://pokemondb.net/pokedex/starmie)
+
