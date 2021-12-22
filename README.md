@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="left">
 - Formado em Ensino Técnico Integrado em Informática (IFPB | 2017 - 2020)
 - Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (IFPB)
 - Atualmente trabalhando como Desenvolvedor Backend | Maqlarem Sistemas de Impressão
+</p>
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=ivesfg1&theme=nightowl&show_icons=true&count_private=true&hide=stars">
 
