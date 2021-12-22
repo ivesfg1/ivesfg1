@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (IFPB)
 - Atualmente trabalhando como Desenvolvedor Backend | Maqlarem Sistemas de Impressão
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ivesfg1&theme=nightowl&show_icons=true&count_private=true&hide=stars)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ivesfg1&theme=nightowl&show_icons=true&count_private=true&hide=stars">
 
 - E além de tudo, um grande fã de Pokémon!
 
