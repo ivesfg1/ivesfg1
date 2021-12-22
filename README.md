@@ -19,5 +19,3 @@ Here are some ideas to get you started:
 - Cursando Tecnologia em Análise e Desenvolvimento de Sistemas (IFPB)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=ivesfg1&theme=nightowl&show_icons=true&count_private=true&hide=stars)
-
-![URL="http://pokemondb.net/pokedex/primeape"][IMG]https://img.pokemondb.net/sprites/sun-moon/normal/primeape.png[/IMG][/URL]
